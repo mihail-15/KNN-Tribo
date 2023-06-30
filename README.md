@@ -12,7 +12,7 @@
 
 python KNN-Tribo.py
 
-# The software requires the names of the Excel files containing the experimental data of COF and time for each dataset of material B83 to be entered manually in the code. For example, in the line 12 of the KNN-Tribo.py file, the file names should be assigned to the variables file1, file2, and file3 as follows:
+# The software requires the names of the Excel files containing the experimental data of COF and time for each dataset of the composite material to be entered manually in the code. For example, in the line 12 of the KNN-Tribo.py file, the file names should be assigned to the variables file1, file2, and file3 as follows:
 
 file1 = "composite_1.xlsx"
 file2 = "composite_2.xlsx"
