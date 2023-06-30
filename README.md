@@ -22,7 +22,7 @@ file3 = "composite_3.xlsx"
 
 # Support
 
-# For any questions or issues, please contact mihail-15@github.com.
+# For any questions or issues, please contact mihail1kolev@ims.bas.bg.
 
 # License
 
